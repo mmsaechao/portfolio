@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: SQL, Tableau, PowerBi, R Studio, Python
+#### Technical Skills: SQL, Tableau, PowerBI, R Studio, Python
 
 ## Education
 - Certificate, Data Analytics | LinkedIn (_2024_)								       		
@@ -8,9 +8,16 @@
 - B.S., Community and Regional Development | California University of Davis, Davis (_2018 - 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- A
-- B
+**IT Specialist I @ California Department of Technology (_June 2023 - Present_)**
+•	Experienced with data warehousing and ETL process 
+•	Translated findings from data into recommendations for management
+•	Detail-oriented and organized under pressure in fast-paced environments
+•	Collected, organized, and analyzed billing and contract data into the form of a report for management decisions on policy changes
+•	Managed multiple projects with overlapping deadlines efficiently and timely
+•	Completed tasks with business improvement mentality and continuously looked for areas I could help the division do better in based on my skillset
+•	Facilitated customer meetings, working sessions, and evaluations 
+•	Evaluated resumes and references for multi-million-dollar state contracts
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - A
