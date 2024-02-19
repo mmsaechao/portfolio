@@ -3,9 +3,9 @@
 #### Technical Skills: SQL, Tableau, PowerBi, R Studio, Python
 
 ## Education
-- Certificate, Data Analytics | LinkedIn (_January 2024_)								       		
-- A.S., Network Administration	| Sacramento City College (_June 2022_)	 			        		
-- B.S., Community and Regional Development | California University of Davis, Davis (_June 2021_)
+- Certificate, Data Analytics | LinkedIn (_2024_)								       		
+- A.S., Network Administration	| Sacramento City College (_2020 - 2022_)	 			        		
+- B.S., Community and Regional Development | California University of Davis, Davis (_2018 - 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -31,7 +31,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Certifications
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
