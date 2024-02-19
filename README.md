@@ -45,7 +45,6 @@ Placeholder **bold text**
 
 ## Work Experience
 **IT Specialist I @ California Department of Technology**
-
 **(_June 2023 - Present_)**
 - Experienced with data warehousing and ETL process
 - Translated findings from data into recommendations for management
