@@ -44,7 +44,8 @@ Placeholder **bold text**
 - B.S., Community and Regional Development | California University of Davis, Davis (_2018 - 2021_)
 
 ## Work Experience
-**IT Specialist I @ California Department of Technology (_June 2023 - Present_)**
+**IT Specialist I @ California Department of Technology**
+**(_June 2023 - Present_)**
 - Experienced with data warehousing and ETL process
 - Translated findings from data into recommendations for management
 - Detail-oriented and organized under pressure in fast-paced environments
@@ -54,7 +55,8 @@ Placeholder **bold text**
 - Facilitated customer meetings, working sessions, and evaluations
 - Evaluated resumes and references for multi-million-dollar state contracts
 
-**Staff Services Analyst @ California Department of Technology (_January 2022 - June 2023_)**
+**Staff Services Analyst @ California Department of Technology**
+**(_January 2022 - June 2023_)**
 - Supported data findings with easily understood figures
 - Asked for and completed various trainings/courses to earn certifications
 - Launched data collection tools in ServiceNow platform to collect data for predictive models used to improve staff workload division
@@ -63,12 +65,14 @@ Placeholder **bold text**
 - Trained Student Assistants and peers on how to develop billing reports
 - Facilitated data projects and monitored for quality and completion
 
-**Student Assistant @ California Department of Technology (_November 2020 - January 2022_)**
+**Student Assistant @ California Department of Technology**
+**(_November 2020 - January 2022_)**
 - Developed process for billing report that warehouses data from multiple sources using macros to show hours staff billed customers in the last year
 - Facilitated internal and external stakeholder meetings
 - Volunteered to take part in projects to expand skills and knowledge
 
-**Student Research Assistant @ University of California Davis (_January 2020 - October 2021_)**
+**Student Research Assistant @ University of California Davis**
+**(_January 2020 - October 2021_)**
 - Efficiently input data into Excel that fed predictive models
 - Researched and collected data from formal documents, government databases, and articles
 - Prioritized multiple tasks according to deadlines and impact level
