@@ -59,18 +59,18 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Business Analytics: Forecasting with Seasonal Baseline Smoothing - LinkedIn, 2024
 - Business Analytics: Forecasting with Trending Baseline Smoothing - LinkedIn, 2024
 - Data Analytics - LinkedIn, 2024
+  - SQL: Data Report and Analysis
+  - Learning Data Visualization
+  - Learning Excel: Data Analysis
+  - PowerBI Essential Training
+  - Predictive Analytics Essential Training: Data Mining
+  - R Essential Training: Wrangling and Visualizing Data
   - Data Cleaning in Python Essential Training
   - Data Fluency: Exploring and Desribing Data
   - Excel Statistics Essential Training: 1
   - Learning Data Analytics Part 2: Extending and Applying Core Knowledge
   - Learning Data Analytics: 1 Foundations
   - Learning Data Science: Ask Great Questions
-  - Learning Data Visualization
-  - Learning Excel: Data Analysis
-  - PowerBI Essential Training
-  - Predictive Analytics Essential Training: Data Mining
-  - R Essential Training: Wrangling and Visualizing Data
-  - SQL" Data Report and Analysis
   - Tableau Essential Training
   - The Non-Technical Skills of Effective Data Scientists
 - Business Analysis - University of California Davis, 2022
